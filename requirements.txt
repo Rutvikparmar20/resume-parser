@@ -1,0 +1,4 @@
+flask
+spacy
+pdfplumber
+psycopg2-binary
